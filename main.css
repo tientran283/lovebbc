@@ -136,7 +136,7 @@
   }
 
   #canvas {
-    background-color:greenyellow;   
+    background-color:transparent;   
     color: transparent; 
     margin: 0;
     overflow: hidden;
